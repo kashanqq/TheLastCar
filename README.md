@@ -26,6 +26,7 @@
 
 ## 📖 About
 
+<!-- TODO: rewrite the pitch in your own words -->
 A frozen mountain road, one car and whatever you and your friends can bolt onto it. Pick up parts, fit them to the car, keep the tank from running dry and yourselves from freezing — and reach the end of the road together.
 
 ## ⚙️ Systems
@@ -101,12 +102,6 @@ Selected graphs are hosted on [blueprintUE](https://blueprintue.com): open, zoom
 
 | System | Preview | Graph |
 |---|---|---|
-| Fitting a part to a socket | ![](media/Blueprints/attach-part.png) | [blueprintUE](https://blueprintue.com/blueprint/3q0uuprv/) |
-| Ghost preview (green / red) | ![](media/Blueprints/ghost-preview.png) | [blueprintUE](https://blueprintue.com/blueprint/mncfdgby/) |
-| Getting location to placing items in the trunk grid | ![](media/Blueprints/trunk-grid.png) | [blueprintUE](https://blueprintue.com/blueprint/467y0wjt/) |
-| Fuel consumption along a curve | ![](media/Blueprints/fuel.png) | [blueprintUE](https://blueprintue.com/blueprint/djc_v_-o/) |
-| Body temperature | ![](media/Blueprints/body-temp.png) | [blueprintUE](https://blueprintue.com/blueprint/2jx6_1hk/) |
-| One key for everything: `BPI_Interact` | ![](media/Blueprints/interact.png) | [blueprintUE](https://blueprintue.com/blueprint/32jk3nbi/) |
 
 <sub>These are simplified excerpts; the current build may differ.</sub>
 
@@ -114,7 +109,7 @@ Selected graphs are hosted on [blueprintUE](https://blueprintue.com): open, zoom
 
 | # | Date | Entry |
 |---|---|---|
-| 001 | 2026-10-01 | [First two weeks: from template to MVP](DevLogs/001-first-two-weeks.md) |
+| 001 | 2026-10-01 | [January to MVP: how it got here](DevLogs/001-january-to-mvp.md) |
 
 → [All entries](DevLogs/README.md)
 
@@ -122,15 +117,19 @@ Selected graphs are hosted on [blueprintUE](https://blueprintue.com): open, zoom
 
 The plan changes as development goes on; this is the current version.
 
-### ✅ M0 — Prototype · Aug 2026
+### ✅ M0 — Prototype · Jan – May 2026
+*Built alongside university while still learning Unreal.*
 - [x] Car model cut into separate parts (Blender)
-- [x] Chaos vehicle: driving, torque curve, headlights, speedometer
-- [x] Fitting parts to sockets from a data table, ghost preview
-- [x] One key for everything through interfaces + Enhanced Input
-- [x] Seats, getting in and out, switching input contexts
-- [x] Grid-based trunk
+- [x] Attaching and detaching parts to sockets, ghost preview
+- [x] Basic Chaos vehicle driving
+- [x] First interactions and small systems
 
-### ✅ M1 — MVP · Sep 2026
+### ✅ M1 — MVP · Summer 2026
+- [x] Seats, getting in and out, switching input contexts
+- [x] One key for everything through interfaces + Enhanced Input
+- [x] Parts described in a data table (`DT_CarObjects`)
+- [x] Vehicle polish: torque curve, headlights, speedometer
+- [x] Grid-based trunk
 - [x] Fuel and jerry can refueling
 - [x] Body temperature, cold affects speed
 - [x] Stamina / sprint
@@ -159,7 +158,10 @@ The plan changes as development goes on; this is the current version.
 
 | Date | Milestone |
 |---|---|
-| 2026-08-26 | Project started from the UE5 First Person + Vehicle templates |
+| Jan 2026 | The idea appears; development starts in UE5 |
+| Jan – May 2026 | Learning Unreal while building: part attach/detach and basic driving |
+| Summer 2026 | Main push: seats, trunk, interaction, fuel, cold, stamina |
+| Aug 2026 | Project moved to version control |
 | 2026-08-31 | Jerry can and refueling: the core loop works end to end |
 | 2026-09-10 | MVP map finished |
 | 2026-10-01 | Renamed from MyWinterDrive to **The Last Car**; public devlog started |

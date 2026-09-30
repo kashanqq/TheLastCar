@@ -6,7 +6,7 @@ New entries go on top. File naming: `NNN-short-slug.md`, starting from `_templat
 
 | # | Date | Entry | Tags |
 |---|---|---|---|
-| 001 | 2026-10-01 | [First two weeks: from template to MVP](001-first-two-weeks.md) | `meta` `vehicle` `survival` |
+| 001 | 2026-10-01 | [January to MVP: how it got here](001-january-to-mvp.md) | `meta` `vehicle` `survival` |
 
 ---
 
