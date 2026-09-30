@@ -174,6 +174,10 @@ The plan changes as development goes on; this is the current version.
 
 - Portfolio: [kashtan.online](https://kashtan.online)
 - Telegram: [Igor](https://t.me/galooshiii)
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
 ---
 
 <div align="center">
