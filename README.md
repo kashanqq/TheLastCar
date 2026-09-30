@@ -26,7 +26,6 @@
 
 ## 📖 About
 
-<!-- TODO: rewrite the pitch in your own words -->
 A frozen mountain road, one car and whatever you and your friends can bolt onto it. Pick up parts, fit them to the car, keep the tank from running dry and yourselves from freezing — and reach the end of the road together.
 
 ## ⚙️ Systems
@@ -102,12 +101,12 @@ Selected graphs are hosted on [blueprintUE](https://blueprintue.com): open, zoom
 
 | System | Preview | Graph |
 |---|---|---|
-| Fitting a part to a socket | ![](media/Blueprints/attach-part.png) | [blueprintUE](https://blueprintue.com/blueprint/TODO/) |
-| Ghost preview (green / red) | ![](media/Blueprints/ghost-preview.png) | [blueprintUE](https://blueprintue.com/blueprint/TODO/) |
-| Placing items in the trunk grid | ![](media/Blueprints/trunk-grid.png) | [blueprintUE](https://blueprintue.com/blueprint/TODO/) |
-| Fuel consumption along a curve | ![](media/Blueprints/fuel.png) | [blueprintUE](https://blueprintue.com/blueprint/TODO/) |
-| Body temperature | ![](media/Blueprints/body-temp.png) | [blueprintUE](https://blueprintue.com/blueprint/TODO/) |
-| One key for everything: `BPI_Interact` | ![](media/Blueprints/interact.png) | [blueprintUE](https://blueprintue.com/blueprint/TODO/) |
+| Fitting a part to a socket | ![](media/Blueprints/attach-part.png) | [blueprintUE](https://blueprintue.com/blueprint/3q0uuprv/) |
+| Ghost preview (green / red) | ![](media/Blueprints/ghost-preview.png) | [blueprintUE](https://blueprintue.com/blueprint/mncfdgby/) |
+| Getting location to placing items in the trunk grid | ![](media/Blueprints/trunk-grid.png) | [blueprintUE](https://blueprintue.com/blueprint/467y0wjt/) |
+| Fuel consumption along a curve | ![](media/Blueprints/fuel.png) | [blueprintUE](https://blueprintue.com/blueprint/djc_v_-o/) |
+| Body temperature | ![](media/Blueprints/body-temp.png) | [blueprintUE](https://blueprintue.com/blueprint/2jx6_1hk/) |
+| One key for everything: `BPI_Interact` | ![](media/Blueprints/interact.png) | [blueprintUE](https://blueprintue.com/blueprint/32jk3nbi/) |
 
 <sub>These are simplified excerpts; the current build may differ.</sub>
 
@@ -174,8 +173,7 @@ The plan changes as development goes on; this is the current version.
 **Igor** — game developer, KBTU GameLab (Almaty)
 
 - Portfolio: [kashtan.online](https://kashtan.online)
-- <!-- TODO: Telegram / email / LinkedIn / itch.io -->
-
+- Telegram: [Igor](https://t.me/galooshiii)
 ---
 
 <div align="center">
